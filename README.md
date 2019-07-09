@@ -27,7 +27,11 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 4.html
 5.Typescript
 
+## No known Bugs
+
+
 ## Description
+
 The quotes application enables a user to input quotes, upvote, downvote or delete quotes from their dashboard. It has a form component where the user enters the quote, name of author and their name which is then displayed on the quote display component. They click the upvote button to upvote, downvote button to downvote. When a user loses interest in a quote, they have an option to delete it.
 
 ## Contact us
@@ -35,6 +39,7 @@ The quotes application enables a user to input quotes, upvote, downvote or delet
 for more information:
 phone number-0704282877
 e-mail-gnjoro077@gmail.com
+
 # Licence
 
 MIT License
