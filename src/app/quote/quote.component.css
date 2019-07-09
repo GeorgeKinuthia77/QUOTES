@@ -1,8 +1,11 @@
+.container{
+  background-image: url("../");
+}
 .Row{
-  border: 2px solid red;
+  border: 2px solid blue;
 }
 .col-md-6{
-  border: 2px solid grey;
+  border: 2px solid black;
 
 }
 h1{
