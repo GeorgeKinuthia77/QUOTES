@@ -14,3 +14,7 @@ h1{
   font-style: normal;
   font-family: sans-serif;
 }
+.col-md-6 form-group{
+font-size: 10px;
+font-style: italic;
+}
