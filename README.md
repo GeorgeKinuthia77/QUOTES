@@ -3,9 +3,9 @@
 This project was generated with Angular CLI version 8.1.0.
 
 
-## Development server
+## Author
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+George Kinuthia(8/7/2019)
 
 ## Code scaffolding
 
