@@ -1,4 +1,4 @@
-.row{
+.Row{
   border: 2px solid red;
 }
 .col-md-6{
@@ -7,6 +7,6 @@
 }
 h1{
   padding-top: 2%;
-  font-style: italic;
-  font-family: cursive;
+  font-style: normal;
+  font-family: sans-serif;
 }
