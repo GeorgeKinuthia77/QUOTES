@@ -11,9 +11,9 @@ George Kinuthia(8/7/2019)
 Shows quote info,	Fill in quote and its details,	Adds information to details component Submit quote,	Click submit button Quote, is added to personal list of quotes Upvote and Downvote,	Click upvote and downvote button,	Adds/Deducts votes on a quote Delete,	Click delete, button	Deletes quote Show highest upvote	On click, adds a vote	Quote with highest vote is displayed Show time	On click submit button,	Record and display time since quote was inputted
 
 ## Development server
-Github Link :https://github.com/GeorgeKinuthia77/QUOTES
+Github Link :https://github.com/GeorgeKinuthia77/Quotes
 
-Live Link:
+Live Link:https://georgekinuthia77.github.io/Quotes/
 
 ## Build
 
